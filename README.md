@@ -5,6 +5,6 @@
 
 [![Instagram](https://img.shields.io/badge/__cosmin00-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/__cosmin00?)&nbsp;&nbsp;
 [![Discord](https://img.shields.io/badge/cryart-%231DA1F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/users/959055077946032229)&nbsp;&nbsp;&nbsp;
-[![Linkedin](https://img.shields.io/badge/rzashakeri-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rzashakeri//)&nbsp;&nbsp;
+[![Spotify](https://img.shields.io/badge/Csmn__-%231DA1F2.svg?style=for-the-badge&logo=Spotify&logoColor=white)](https://open.spotify.com/user/5bcknf0u6og6rxf0cj93qmutk?si=5W-KKJr_TsuXBImr-E22cQ)&nbsp;&nbsp;
 [![telegram](https://img.shields.io/badge/rzashakeri-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rzashakeri/)&nbsp;&nbsp;&nbsp;
 [![gitlab](https://img.shields.io/badge/rzashakeri-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/rzashakeri)
