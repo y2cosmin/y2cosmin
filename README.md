@@ -17,4 +17,4 @@
 <br/>
 <br/>
 
-<img src="https://cdn.gruntjs.com/builtwith.svg" alt="Built with Grunt"> <img src="https://s3.amazonaws.com/assets.coveralls.io/badges/coveralls_100.svg" alt="Coverage Status">
+<img src="https://cdn.gruntjs.com/builtwith.svg" alt="Built with Love"> <img src="https://s3.amazonaws.com/assets.coveralls.io/badges/coveralls_100.svg" alt="❤️❤️❤️">
