@@ -1,6 +1,6 @@
 <p align="center">
- <img width="500px" src="https://media.discordapp.net/attachments/1051484679041204315/1076547999423025233/image0.jpg" align="center" alt="cryart Stats" />
- <h2 align="center">cryart Stats</h2>
+ <img width="500px" src="https://media.discordapp.net/attachments/1051484679041204315/1076547999423025233/image0.jpg" align="center" alt="cryart" />
+ <h2 align="center">cryart</h2>
 </p>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats/actions">
