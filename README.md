@@ -17,4 +17,4 @@
 <br/>
 <br/>
 
-<img src="https://cdn.gruntjs.com/builtwith.svg" alt="Built with Love"> <img src="https://s3.amazonaws.com/assets.coveralls.io/badges/coveralls_100.svg" alt="❤️❤️❤️">
+<img alt="GithubBadges" src="https://camo.githubusercontent.com/9b49974fc2ff46828045e867a959e0502e14bf954c9ffb6b36b995f9ac114ad9/68747470733a2f2f692e696d6775722e636f6d2f695648666c4c552e676966" data-canonical-src="https://i.imgur.com/iVHflLU.gif" style="max-width: 100%;">
