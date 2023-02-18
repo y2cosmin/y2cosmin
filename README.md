@@ -10,12 +10,10 @@
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Gaming552.visitor-badge)
 <br/>
 <br/>
-&nbsp; <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<br/>
-<br/>
 
 <br/>
 <br/>
-<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"> <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+
+<img src="https://camo.githubusercontent.com/df082b78463312b3557f5aab829931c006f52d786fc64711fe2e251e26564df7/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d50726f66696c652b7669657773266d6573736167653d3132333435363738393026636f6c6f723d303037656336267374796c653d666f722d7468652d6261646765" alt="" data-canonical-src="https://img.shields.io/static/v1?label=Profile+views&amp;message=1234567890&amp;color=007ec6&amp;style=for-the-badge" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/5a7bb22b0aa8d11e1d01515ce6e942d09a6b51c6ca94fa8602461a8a082faf0d/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d4749545741522b50524f46494c452b53434f5245266d6573736167653d3132333435363738393026636f6c6f723d303037656336" alt="" data-canonical-src="https://img.shields.io/static/v1?label=PROFILE+SCORE&amp;message=1234567890&amp;color=007ec6" style="max-width: 100%;">
 <br/>
 <br/>
