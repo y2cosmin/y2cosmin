@@ -1,7 +1,6 @@
 <p align="center">
- <img width="500px" src="https://media.discordapp.net/attachments/1051484679041204315/1076547999423025233/image0.jpg" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">GitHub Readme Stats</h2>
- <p align="center">Get dynamically generated GitHub stats on your READMEs!</p>
+ <img width="500px" src="https://media.discordapp.net/attachments/1051484679041204315/1076547999423025233/image0.jpg" align="center" alt="cryart Stats" />
+ <h2 align="center">cryart Stats</h2>
 </p>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats/actions">
