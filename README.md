@@ -10,3 +10,6 @@
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Gaming552.visitor-badge)
 <br/>
 <br/>
+&nbsp; <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<br/>
+<br/>
