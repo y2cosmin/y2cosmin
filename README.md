@@ -17,5 +17,3 @@
 <br/>
 <br/>
 
-# Discord username:
-<img src="https://camo.githubusercontent.com/d01429f8fe0330ac6e0123f60fb037db4433d7b931ae8b9e5072b3813d01ba44/68747470733a2f2f646362616467652e76657263656c2e6170702f6170692f736869656c642f3835323937373936373737363339393430303f626f743d74727565" alt="for-the-badge (default)" data-canonical-src="https://dcbadge.vercel.app/api/shield/959055077946032229?bot=false" style="max-width: 100%;">
