@@ -1,6 +1,11 @@
 <p align="center">
- <img width="500px" src="https://media.discordapp.net/attachments/1051484679041204315/1076547999423025233/image0.jpg" align="center" alt="cryart" />
- <h2 align="center">cryart</h2>
+ <h2 align="center">```py
+class cryart(){
+     
+}
+
+```
+</h2>
 </p>
 
 [![Instagram](https://img.shields.io/badge/__cosmin00-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/__cosmin00?)&nbsp;&nbsp;
