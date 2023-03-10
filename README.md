@@ -1,10 +1,5 @@
 <p align="center">
- <h2 align="center">```py
-class cryart(){
-     
-}
-
-```
+ <img src="https://discord.c99.nl/widget/theme-3/959055077946032229.png"/>
 </h2>
 </p>
 
