@@ -17,6 +17,7 @@
 <br/>
 <br/>
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaming552&show_icons=true)](https://github.com/gaming552)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaming552&show_icons=true)
 <br/>
 <br/>
