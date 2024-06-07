@@ -1,7 +1,7 @@
 <h1 align="center">
   <a href="#" style="text-decoration: none; display: flex; align-items: center; justify-content: center;">
     Hi 👋, I'm cryart
-    <img style="margin-left: 10px; transform: translateY(3px); width: 8%; height: 8%;" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/pronouns/hehim.svg" alt="He/Him">
+    <img style="margin-left: 10px; transform: translateY(5px); width: 9.5%; height: 9.5%;" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/pronouns/hehim.svg" alt="He/Him">
   </a>
 </h1>
 
