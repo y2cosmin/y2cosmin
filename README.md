@@ -1,7 +1,7 @@
 <h1 align="center">
   <a href="#" style="text-decoration: none; display: flex; align-items: center; justify-content: center;">
     Hi 👋, I'm cryart
-    <img style="margin-left: 10px; transform: translateY(5px); width: 9.5%; height: 9.5%;" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/pronouns/hehim.svg" alt="He/Him">
+    <img style="margin-left: 10px; transform: translateY(3px); width: 16px; height: 16px;" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/pronouns/hehim.svg" alt="He/Him">
   </a>
 </h1>
 
@@ -32,6 +32,9 @@
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="visualstudiocode" style="vertical-align: top; max-width: 100%; margin:6px 4px;">
 </a>
 
-<h3>Other informations:</h3>[
 [![Cryart stats](https://github-readme-stats.vercel.app/api?username=cryart1337&hide=prs)](https://github.com/cryart1337)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cryart1337&show_icons=true)
+
+<br/>
+<br/>
