@@ -32,9 +32,9 @@
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="visualstudiocode" style="vertical-align: top; max-width: 100%; margin:6px 4px;">
 </a>
 
+<h3>GitHub Stats:</h3>
+
 [![Cryart stats](https://github-readme-stats.vercel.app/api?username=cryart1337&hide=prs)](https://github.com/cryart1337)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cryart1337&show_icons=true)
 
-<br/>
-<br/>
