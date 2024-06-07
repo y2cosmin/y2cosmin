@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm cryart</h1>
+<h1 align="center">Hi 👋, I'm cryart</h1> <img style="margin-left: 2px;" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/pronouns/hehim.svg">
 
 <a href="#" style="text-decoration: none;">
 <p align="center">
