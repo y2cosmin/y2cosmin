@@ -4,7 +4,7 @@
  <img src="https://discord.c99.nl/widget/theme-2/1116267335154683955.png"/>
 </p>
 
-<h3>Find me on</h3>
+<h3>Find me on:</h3>
 
 [![Instagram](https://img.shields.io/badge/__cosmin00-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/__cosmin00?)&nbsp;&nbsp;
 [![Discord](https://img.shields.io/badge/cryart1337-%231DA1F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/users/1116267335154683955)&nbsp;&nbsp;&nbsp;
