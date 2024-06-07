@@ -34,4 +34,4 @@
 
 <h3>GitHub Stats:</h3>
 
-[![Cryart stats](https://github-readme-stats.vercel.app/api?username=cryart1337&hide=prs&show_icons=true&theme=transparent#gh-dark-mode-only)](https://github.com/cryart1337)
+[![Cryart stats](https://github-readme-stats.vercel.app/api?username=cryart1337&hide=prs&show_icons=true&theme=transparent&hide_border=true)](https://github.com/cryart1337)
