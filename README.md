@@ -34,5 +34,7 @@
 
 <h3>GitHub Stats:</h3>
 
-[![Cryart stats](https://github-readme-stats.vercel.app/api?username=cryart1337&hide=prs)](https://github.com/cryart1337) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cryart1337&show_icons=true)
+[![Cryart stats](https://github-readme-stats.vercel.app/api?username=cryart1337&hide=prs)](https://github.com/cryart1337)
+
+[![Top langs](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)](https://github.com/cryart1337)
 
