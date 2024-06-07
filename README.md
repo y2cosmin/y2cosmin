@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm cryart</h1>
+
 <p align="center">
  <img src="https://discord.c99.nl/widget/theme-2/1116267335154683955.png"/>
 </h2>
