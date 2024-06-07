@@ -33,4 +33,4 @@
 </a>
 
 <h3>Other informations:</h3>[
-[![Cryart stats][https://github-readme-stats.vercel.app/api?username=cryart1337&hide=prs](https://github.com/cryart1337)
+[![Cryart stats](https://github-readme-stats.vercel.app/api?username=cryart1337&hide=prs)](https://github.com/cryart1337)
