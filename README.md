@@ -9,8 +9,6 @@
 
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=gaming552.cryart)
 
-<br/>
-<br/>
 <a href="#">
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg" alt="html" style="vertical-align: top; max-width: 100%; margin:6px 4px;"> <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg" alt="python" style="vertical-align: top; max-width: 100%; margin:6px 4px;"> <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/php.svg" alt="php" style="vertical-align: top; max-width: 100%; margin:6px 4px;">
 </a>
