@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm cryart</h1>
 
+<a href="#">
 <p align="center">
  <img src="https://discord.c99.nl/widget/theme-2/1116267335154683955.png"/>
 </p>
+</a>
 
 <h3>Find me on:</h3>
 
