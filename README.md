@@ -32,8 +32,5 @@
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="visualstudiocode" style="vertical-align: top; max-width: 100%; margin:6px 4px;">
 </a>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaming552&show_icons=true)](https://github.com/gaming552)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaming552&show_icons=true)
-
-<br/>
-<br/>
+<h3>Other informations:</h3>[
+[![Cryart stats](https://github-readme-stats.vercel.app/api?username=cryart1337)](https://github.com/cryart1337/cryart1337)
