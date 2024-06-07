@@ -1,9 +1,10 @@
 <h1 align="center">
   <a href="#" style="text-decoration: none; display: flex; align-items: center; justify-content: center;">
     Hi 👋, I'm cryart
-    <img style="margin-left: 10px; transform: translateY(3px); width: 20px; height: 20px;" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/pronouns/hehim.svg" alt="He/Him">
+    <img style="margin-left: 10px; transform: translateY(3px); width: 16px; height: 16px;" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/pronouns/hehim.svg" alt="He/Him">
   </a>
 </h1>
+
 
 <a href="#" style="text-decoration: none;">
   <p align="center">
