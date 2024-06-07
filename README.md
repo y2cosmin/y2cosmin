@@ -8,8 +8,6 @@
 [![Spotify](https://img.shields.io/badge/Csmn__-%231DA1F2.svg?style=for-the-badge&logo=Spotify&logoColor=white)](https://open.spotify.com/user/5bcknf0u6og6rxf0cj93qmutk?si=5W-KKJr_TsuXBImr-E22cQ)&nbsp;&nbsp;
 
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=gaming552.cryart)
-<br/>
-<br/>
 
 <br/>
 <br/>
