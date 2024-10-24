@@ -1,13 +1,12 @@
 <h1 align="center">
   <a href="#" style="text-decoration: none; display: flex; align-items: center; justify-content: center;">
-    Hi 👋, I'm cryart
+    Hi 👋, I'm Cosmin
     <img style="margin-left: 10px; transform: translateY(3px); width: 10%; height: 10%;" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/pronouns/hehim.svg" alt="He/Him">
   </a>
 </h1>
 <h3>Find me on:</h3>
 
 [![Instagram](https://img.shields.io/badge/y2cosmin-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/y2cosmin?)&nbsp;&nbsp;
-[![Discord](https://img.shields.io/badge/y2cosmin-%231DA1F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/users/1116267335154683955)&nbsp;&nbsp;&nbsp;
 [![Spotify](https://img.shields.io/badge/Csmn__-%231DA1F2.svg?style=for-the-badge&logo=Spotify&logoColor=white)](https://open.spotify.com/user/5bcknf0u6og6rxf0cj93qmutk?si=5W-KKJr_TsuXBImr-E22cQ)&nbsp;&nbsp;
 
 <h3>Languages I know:</h3>
