@@ -10,21 +10,23 @@
 [![Spotify](https://img.shields.io/badge/y2cosmin-%231DA1F2.svg?style=for-the-badge&logo=Spotify&logoColor=white)](https://open.spotify.com/user/5bcknf0u6og6rxf0cj93qmutk?si=5W-KKJr_TsuXBImr-E22cQ)&nbsp;&nbsp;
 
 <h3>Languages I know:</h3>
-<a href="#" style="text-decoration: none; user-select: none; outline: none;" target="blank">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg" alt="html" style="vertical-align: top; max-width: 100%; margin:6px 4px;">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg" alt="python" style="vertical-align: top; max-width: 100%; margin:6px 4px;">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/php.svg" alt="php" style="vertical-align: top; max-width: 100%; margin:6px 4px;">
-</a>
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)" alt="c++">
+</div>
 
 <h3>I use:</h3>
-<a href="#" style="text-decoration: none; user-select: none; outline: none;" target="blank">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/powershell.svg" alt="powershell" style="vertical-align: top; max-width: 100%; margin:6px 4px;">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/docker.svg" alt="docker" style="vertical-align: top; max-width: 100%; margin:6px 4px;">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio.svg" alt="visualstudio" style="vertical-align: top; max-width: 100%; margin:6px 4px;">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="visualstudiocode" style="vertical-align: top; max-width: 100%; margin:6px 4px;">
-</a>
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="visualstudiocode">
+  <img src="https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white" alt="githubcopilot">
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql">
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="django">
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindcss">
+</div>
 
 <h3>GitHub Stats:</h3>
 
-[![Cryart stats](https://github-readme-stats.vercel.app/api?username=y2cosmin&hide=prs&show_icons=true&theme=transparent&hide_border=true)](https://github.com/y2cosmin)
-[![Cryart stats](https://github-readme-stats.vercel.app/api/top-langs/?username=y2cosmin&hide_progress=true&theme=transparent&hide_border=true)](https://github.com/y2cosmin)
+[![Y2cosmin stats](https://github-readme-stats.vercel.app/api?username=y2cosmin&hide=prs&show_icons=true&theme=transparent&hide_border=true)](https://github.com/y2cosmin)
+[![Y2cosmin stats](https://github-readme-stats.vercel.app/api/top-langs/?username=y2cosmin&hide_progress=true&theme=transparent&hide_border=true&layout=compact&card_width=500)](https://github.com/y2cosmin)
