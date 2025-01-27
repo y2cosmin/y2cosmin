@@ -6,8 +6,14 @@
 </h1>
 <h3>Find me on:</h3>
 
-[![Instagram](https://img.shields.io/badge/y2cosmin-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/y2cosmin?)&nbsp;&nbsp;
-[![Spotify](https://img.shields.io/badge/y2cosmin-%231DA1F2.svg?style=for-the-badge&logo=Spotify&logoColor=white)](https://open.spotify.com/user/5bcknf0u6og6rxf0cj93qmutk?si=5W-KKJr_TsuXBImr-E22cQ)&nbsp;&nbsp;
+<div style="display: flex; gap: 8px; text-decoration: none;">
+  <a href="https://instagram.com/y2cosmin?" target="_blank">
+    <img src="https://img.shields.io/badge/y2cosmin-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://open.spotify.com/user/5bcknf0u6og6rxf0cj93qmutk?si=5W-KKJr_TsuXBImr-E22cQ" target="_blank">
+    <img src="https://img.shields.io/badge/y2cosmin-%231DA1F2.svg?style=for-the-badge&logo=Spotify&logoColor=white" alt="Spotify">
+  </a>
+</div>
 
 <h3>Languages I know:</h3>
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
